@@ -1,8 +1,7 @@
-[![MasterHead](https://drive.google.com/file/d/1zUCE-0QBdfaf4ttptEe3gLb8ADKT62wd/view?usp=share_link...)
-<h1 align="center">Hi 👋, I'm Crowis Derrick Sena</h1>
-<h3 align="center">An aspiring frontend developer from Ghana, West Afica, with vast knowledge in graphic design and security printing and currently a prepress technician.</h3>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4171367-Coding-Freak...")
 
+<h1 align="center">Hi 👋, I'm Crowis Derrick Sena</h1>
+<h3 align="center">An aspiring frontend developer from Ghana, West Africa, with vast knowledge in graphic design and security printing and currently a prepress technician.</h3>
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derrickcrowis&label=Profile%20views&color=0e75b6&style=flat" alt="derrickcrowis" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derrickcrowis" alt="derrickcrowis" /></a> </p>
